@@ -1,6 +1,7 @@
 # formDisign
 
 This project is about to give me a handle as a student on how to create a web site flow.
+There is not a specific topic, is just make some practice about new thing i'm learning.
 
 ## Built With
 
