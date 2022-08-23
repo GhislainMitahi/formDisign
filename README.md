@@ -17,13 +17,9 @@ To get a local copy up and running follow these simple example steps.
 
  ```
 
- git clone https://github.com/GhislainMitahi/M_portofolio
+ git clone git@github.com:GhislainMitahi/formDisign.git
 
  ```
-
-  in your terminal
-
-  To get actions run ```npm install```
 
 ## Authors
 
